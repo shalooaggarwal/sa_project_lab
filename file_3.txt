@@ -1,3 +1,6 @@
 f3 L1
 f3 L2
 f3 L3
+This is Line 1
+Line 2 is a string
+Line 3 is the end of my added text.
